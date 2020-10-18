@@ -4,6 +4,7 @@ Team Members: Seth Hamlin, Grace Lam, Mein Lee, Maxson Yang
 
 ### Dependencies
 Django v3.1+
+You can run 'pip3 install Django' if you don't already have it installed.
 
 ### Instructions for Running
 
