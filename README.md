@@ -1,4 +1,4 @@
-# WE NEED A NAME
+# CourseDash
 Team Name: The Zoom Roomies\
 Team Members: Seth Hamlin, Grace Lam, Mein Lee, Maxson Yang
 
